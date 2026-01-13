@@ -41,7 +41,7 @@ class CalculatorPage extends StatelessWidget {
                 ),
               ],
             ),
-            SizedBox(height: 10),
+            SizedBox(height: 11),
             Row(
               children: [
                 Expanded(
